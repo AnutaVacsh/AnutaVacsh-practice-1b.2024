@@ -23,10 +23,11 @@ http://localhost:3000/
 
 Добавление нового клиента
 ```shell
-http://localhost:3000/add
+http://localhost:3000/create
 ```
 
 Изменение информации о клиенте
 ```shell
 http://localhost:3000/edit/{id}
 ```
+
